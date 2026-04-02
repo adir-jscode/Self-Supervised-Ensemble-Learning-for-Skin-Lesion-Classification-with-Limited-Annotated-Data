@@ -9,8 +9,6 @@ This project implements an advanced computer vision pipeline for multi-class ski
 - Limited-label training scenario (20% labeled data) to emulate real-world annotation constraints
 - Ensemble soft-voting of three expert models for robust performance
 
-It is designed for portfolio/ resume inclusion in machine learning, medical imaging, or research roles.
-
 ## 🧠 Key Contributions
 
 - **Limited annotation setting**: trained over just 20% of labels for supervised tasks, demonstrating data-efficient performance.
@@ -22,7 +20,6 @@ It is designed for portfolio/ resume inclusion in machine learning, medical imag
 ## 📁 Repository Structure
 
 - `ssl-ensemble-simCLR.ipynb`: complete end-to-end notebook with data preparation, modeling, training, and evaluation.
-- `README.md`: this file.
 
 ## 🧩 Dataset: HAM10000 (Skin Cancer MNIST)
 
